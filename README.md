@@ -77,6 +77,7 @@ Este projeto foi criado para consolidar conhecimentos de:
 
 ## 📁 Estrutura 
 
+```bash
 project-Python-IA/
 │── notebooks/
 │ ├── classificacao.ipynb
@@ -88,6 +89,29 @@ project-Python-IA/
 │
 └── src/
 └── scripts auxiliares
+```
+
+---
+
+## ▶️ Como Executar
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/John-o-dev/project-Python-IA
+```
+
+2. Instale as dependências (recomendado usar venv):
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Execute os notebooks:
+
+```bash
+jupyter notebook
+```
 
 ---
 
